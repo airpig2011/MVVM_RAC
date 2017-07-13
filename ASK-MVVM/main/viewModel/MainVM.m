@@ -11,7 +11,7 @@
 #import "ASKNetworkHelper.h"
 
 //https://wx.jcloud.com/, 请到京东万象注册申请appkey
-#define APPKEY          @"c720b9bda83f7fd469275a094010fcd1"
+#define APPKEY          @""
 
 @implementation MainVM
 
