@@ -4,9 +4,9 @@ reactiveCocoa mvvm
 ##
 by chendajie 2017-2018
 ##
-==============================
-基于reactiveCocoa实现的mvvm
 
+基于reactiveCocoa实现的mvvm
+==============================
 
 1.封装afnetworking，使用单例子处理网络请求。
 
